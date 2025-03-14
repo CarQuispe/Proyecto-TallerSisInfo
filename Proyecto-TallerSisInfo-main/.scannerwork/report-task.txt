@@ -1,0 +1,6 @@
+projectKey=taller_de_sis_inf
+serverUrl=http://localhost:9000
+serverVersion=10.6.0.92116
+dashboardUrl=http://localhost:9000/dashboard?id=taller_de_sis_inf
+ceTaskId=bd70c0b7-87fd-43c9-ae19-669772fa7dd9
+ceTaskUrl=http://localhost:9000/api/ce/task?id=bd70c0b7-87fd-43c9-ae19-669772fa7dd9
